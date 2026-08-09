@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-f308c1.salamcuanwin.cfd/sitemap.xml
